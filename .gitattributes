@@ -1,2 +1,5 @@
-* linguist-language=C
-src/* linguist-vendored=true
+*.* linguist-language=C
+*.* linguist-vendored=C
+
+*.sh linguist-vendored=true
+*.c linguist-vendored=true
